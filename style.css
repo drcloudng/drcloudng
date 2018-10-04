@@ -121,6 +121,7 @@ input:checked + .slide-container .nav label { display: block; }
 	display: inline-block;
 	/*background-color: rgba(0, 0, 0, 0.6);*/
     margin-left: 111px;
+    margin-top: 23px;
 
 }
 
